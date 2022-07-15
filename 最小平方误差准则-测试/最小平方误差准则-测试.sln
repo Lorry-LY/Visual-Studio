@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "最小平方误差准则-测试", "最小平方误差准则-测试.vcxproj", "{993B7FE3-E2C4-4DA9-989F-771019227F19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{993B7FE3-E2C4-4DA9-989F-771019227F19}.Debug|x64.ActiveCfg = Debug|x64
+		{993B7FE3-E2C4-4DA9-989F-771019227F19}.Debug|x64.Build.0 = Debug|x64
+		{993B7FE3-E2C4-4DA9-989F-771019227F19}.Debug|x86.ActiveCfg = Debug|Win32
+		{993B7FE3-E2C4-4DA9-989F-771019227F19}.Debug|x86.Build.0 = Debug|Win32
+		{993B7FE3-E2C4-4DA9-989F-771019227F19}.Release|x64.ActiveCfg = Release|x64
+		{993B7FE3-E2C4-4DA9-989F-771019227F19}.Release|x64.Build.0 = Release|x64
+		{993B7FE3-E2C4-4DA9-989F-771019227F19}.Release|x86.ActiveCfg = Release|Win32
+		{993B7FE3-E2C4-4DA9-989F-771019227F19}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46633FE8-3F6E-42D5-9B1A-A23E6E31AE49}
+	EndGlobalSection
+EndGlobal

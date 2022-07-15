@@ -1,0 +1,25 @@
+<UI version="4.0" >
+ <class>Qt_setup2Class</class>
+ <widget class="QWidget" name="Qt_setup2Class" >
+  <property name="objectName" >
+   <string notr="true">Qt_setup2Class</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>600</width>
+    <height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>Qt_setup2</string>
+  </property>$centralwidget$
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources>
+   <include location="qt_setup2.qrc"/>
+ </resources>
+ <connections/>
+</UI>

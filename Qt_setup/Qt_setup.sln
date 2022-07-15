@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Qt_setup", "Qt_setup.vcxproj", "{FC356F8E-413D-4F55-822A-54FACC785C48}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "msvc_setup", "..\..\..\QTdata\project\msvc_setup\msvc_setup.vcxproj", "{B4769326-E1A2-3E9D-B684-91C47CE5A59C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hello_qt", "..\..\..\QTdata\project\hello_qt\hello_qt.vcxproj", "{D2DB5AC6-D572-3A0B-B994-DC26C137D356}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC356F8E-413D-4F55-822A-54FACC785C48}.Debug|x64.ActiveCfg = Debug|x64
+		{FC356F8E-413D-4F55-822A-54FACC785C48}.Debug|x64.Build.0 = Debug|x64
+		{FC356F8E-413D-4F55-822A-54FACC785C48}.Debug|x86.ActiveCfg = Debug|Win32
+		{FC356F8E-413D-4F55-822A-54FACC785C48}.Debug|x86.Build.0 = Debug|Win32
+		{FC356F8E-413D-4F55-822A-54FACC785C48}.Release|x64.ActiveCfg = Release|x64
+		{FC356F8E-413D-4F55-822A-54FACC785C48}.Release|x64.Build.0 = Release|x64
+		{FC356F8E-413D-4F55-822A-54FACC785C48}.Release|x86.ActiveCfg = Release|Win32
+		{FC356F8E-413D-4F55-822A-54FACC785C48}.Release|x86.Build.0 = Release|Win32
+		{B4769326-E1A2-3E9D-B684-91C47CE5A59C}.Debug|x64.ActiveCfg = Debug|x64
+		{B4769326-E1A2-3E9D-B684-91C47CE5A59C}.Debug|x64.Build.0 = Debug|x64
+		{B4769326-E1A2-3E9D-B684-91C47CE5A59C}.Debug|x86.ActiveCfg = Debug|x64
+		{B4769326-E1A2-3E9D-B684-91C47CE5A59C}.Release|x64.ActiveCfg = Release|x64
+		{B4769326-E1A2-3E9D-B684-91C47CE5A59C}.Release|x64.Build.0 = Release|x64
+		{B4769326-E1A2-3E9D-B684-91C47CE5A59C}.Release|x86.ActiveCfg = Release|x64
+		{D2DB5AC6-D572-3A0B-B994-DC26C137D356}.Debug|x64.ActiveCfg = Debug|x64
+		{D2DB5AC6-D572-3A0B-B994-DC26C137D356}.Debug|x64.Build.0 = Debug|x64
+		{D2DB5AC6-D572-3A0B-B994-DC26C137D356}.Debug|x86.ActiveCfg = Debug|x64
+		{D2DB5AC6-D572-3A0B-B994-DC26C137D356}.Release|x64.ActiveCfg = Release|x64
+		{D2DB5AC6-D572-3A0B-B994-DC26C137D356}.Release|x64.Build.0 = Release|x64
+		{D2DB5AC6-D572-3A0B-B994-DC26C137D356}.Release|x86.ActiveCfg = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9452C217-4B78-490D-8904-D12DBFAA2135}
+	EndGlobalSection
+EndGlobal

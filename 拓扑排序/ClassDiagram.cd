@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Gragh">
+    <Position X="8.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAQAgAAAAAIAA=</HashCode>
+      <FileName>Gragh.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Topologic">
+    <Position X="2.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAoGAAAEAAAAAABAAAAAIAAAAA=</HashCode>
+      <FileName>Topologic.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="TreeNode">
+    <Position X="10" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAARAAAAAAAAAAACBAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Topologic.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

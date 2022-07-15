@@ -1,0 +1,6 @@
+def func1(x,y=4) then
+	while d < 10 then
+		int a=1,d,b[2],c[3]=5;
+		d:=a+b[1]+func1(c[1])
+	end
+end
